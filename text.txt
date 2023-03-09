@@ -1,3 +1,8 @@
 wow this is definitely some words
-here is a filehello
-oi
+here is a file
+
+git merge hot-js -m "merge in hot-js"
+
+hello
+hello
+hello 
