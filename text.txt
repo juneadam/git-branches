@@ -6,9 +6,14 @@ git merge hot-js -m "merge in hot-js"
 hello
 hello
 hello 
+<<<<<<< HEAD
 
 Balloonicorn
 End
 
 git checkout -b hot-js
 git commit -a -m "commiting"
+=======
+Jessica
+End
+>>>>>>> hot-js
